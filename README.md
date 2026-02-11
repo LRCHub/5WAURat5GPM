@@ -1,0 +1,85 @@
+# STAYC – Poppy (Korean Ver.)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.66] STAYC girls, it's going down
+[00:25.66] 
+[00:14.33] 평소완 달라, 너답지 않아 yeah
+[00:18.72] 걱정은 말고 rush outside, hurry up, yeah
+[00:22.43] 거품 톡톡 터지는 drink 이건 마치
+[00:26.49] 멋대로 두근대는 my heart
+[00:29.87] Don't stop me
+[00:36.37] 
+[00:31.36] 달콤하기만 한 감정과는 달라
+[00:34.64] 숨이 막힐 듯이 가득 차올라 give me more
+[00:38.72] 멈춰 설 수 없는 이 떨림은 정말
+[00:41.85] This is what I'm looking for
+[00:43.81] Three, two, one, go
+[00:53.31] 
+[00:45.89] Poppy, poppy
+[00:46.47] Pop-poppy, poppy, poppy, love, love
+[00:49.89] Poppy, poppy
+[00:50.45] Pop-poppy, poppy, poppy, love, love
+[00:53.58] Poppy, poppy
+[00:54.92] Pop-poppy, poppy, poppy, love, love
+[00:57.25] Poppy, poppy
+[00:58.57] Pop-poppy, poppy, poppy, love, love
+[01:16.07] 
+[01:01.41] 이런 게 사랑 맞지?
+[01:03.36] 짜릿하게 톡 쏘는
+[01:05.36] 투명한 우리 사이
+[01:06.94] 고민은 no, no, no
+[01:08.98] 멋대로 흔들린 탄산 틀림없이
+[01:12.95] 터질 것 같아 poppy, poppy, love, yeah
+[01:28.95] 
+[01:16.40] 실망할 리 없어 I bet
+[01:18.33] 언제든지, I am all set
+[01:20.05] 시작한 건 절대 don't stop
+[01:22.09] 난 지킬 약속만 하지 no lie
+[01:24.35] 막 밀고 당기기보단
+[01:26.13] 확실한게 더 좋은걸
+[01:28.14] 지금 내 마음이 말하니까, yeah
+[01:37.64] 
+[01:31.79] 달콤하기만 한 감정과는 달라
+[01:36.16] 숨이 막힐 듯이 가득 차올라 give me more
+[01:39.75] 멈춰 설 수 없는 이 떨림은 정말
+[01:42.98] I only know who I am
+[01:45.72] Ooh, ooh
+[01:49.72] 
+[01:46.72] Poppy, poppy
+[01:48.11] Pop-poppy, poppy, poppy, love, love
+[01:50.44] Poppy, poppy
+[01:51.86] Pop-poppy, poppy, poppy, love, love
+[01:54.62] Poppy, poppy
+[01:55.52] Pop-poppy, poppy, poppy, love, love
+[01:58.14] Poppy, poppy
+[01:59.41] Pop-poppy, poppy, poppy, love, love
+[02:16.91] 
+[02:02.58] 이런 게 사랑 맞지?
+[02:04.53] 짜릿하게 톡 쏘는
+[02:06.23] 투명한 우리 사이
+[02:08.24] 고민은 no, no, no
+[02:09.99] 멋대로 흔들린 탄산 틀림없이
+[02:13.86] 터질 것 같아, poppy, poppy, love, yeah
+[02:30.36] 
+[02:17.99] 거품과는 달라 사라지지 않아
+[02:21.64] 녹아든 마음은 넘쳐흐르고 있어
+[02:25.50] 맘을 두드리는 every time
+[02:27.97] 벗어날 수 없어 너에게 빠져 on my mind
+[02:33.68] Oh-oh
+[02:36.18] 
+[02:34.59] Poppy, poppy
+[02:35.71] Pop-poppy, poppy, poppy, love, love
+[02:38.33] Poppy, poppy
+[02:39.37] Pop-poppy, poppy, poppy, love, love
+[02:42.36] Poppy, poppy
+[02:43.36] Pop-poppy, poppy, poppy, love, love
+[02:45.72] Poppy, poppy
+[02:47.05] Pop-poppy, poppy, poppy, love, love
+[03:04.55] 
+[02:49.83] Poppy, poppy
+[02:51.07] Pop-poppy, poppy, poppy, love, love
+[02:53.41] Poppy, poppy
+[02:54.85] Pop-poppy, poppy, poppy, love, love
+```
