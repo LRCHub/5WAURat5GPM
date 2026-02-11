@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Poppy (Korean Ver.)",
+  "base_artist": "STAYC",
+  "createdAt": "2026-02-11T05:57:59.678703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Poppy (Korean Ver.)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/01_Poppy_(Korean_Ver.)_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "POPPY (Korean Ver.)",
+      "artist": "STAYC (스테이씨)",
+      "has_synced": true,
+      "path": "select/02_POPPY_(Korean_Ver.)_STAYC_(스테이씨).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Poppy (Korean Ver.)",
+      "artist": "StayC",
+      "has_synced": true,
+      "path": "select/03_Poppy_(Korean_Ver.)_StayC.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Poppy (Korean Ver.) (Poppy (Korean Ver.))",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/04_Poppy_(Korean_Ver.)_(Poppy_(Korean_Ver.))_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Poppy (Korean Ver.)",
+      "artist": "스테이씨 (STAYC)",
+      "has_synced": true,
+      "path": "select/05_Poppy_(Korean_Ver.)_스테이씨_(STAYC).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Poppy (Korean ver․)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/06_Poppy_(Korean_ver.)_STAYC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Poppy (Korean Ver.)",
+      "artist": "STAYC",
+      "has_synced": false,
+      "path": "select/pl_01_Poppy_(Korean_Ver.)_STAYC.txt"
+    }
+  ]
+}
